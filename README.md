@@ -1,16 +1,16 @@
-# purple-moon README
+# purple moon
 
-## Working with Markdown
+![purple-moon-theme-example](purple-moon-theme-example.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Immerse yourself in a retro-futuristic coding environment where blueish and purple hues dominate the palette, perfectly capturing the essence of the vaporwave aesthetic. Ideal for late-night coding sessions, this theme reduces eye strain and adds a touch of nostalgia to your workflow. Let the soothing colors transform your night programming experience into a serene and visually appealing journey.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+1. Open Visual Studio.
+2. Go to `Extensions > Manage Extensions`.
+3. Search for "purple moon".
+4. Click on "Install".
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Contact
 
-**Enjoy!**
+- Email: lolafioramantiuni@gmail.com
