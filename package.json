@@ -1,0 +1,36 @@
+{
+  "name": "purple-moon",
+  "displayName": "purple moon",
+  "description": "Dark blueish/purple theme, perfect for night coding sesions.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lolafioramanti/purple-moon-theme-VScode.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "blueish",
+    "blue",
+    "purple",
+    "vaporwave",
+    "coding"
+  ],
+  "publisher": "lolafioramanti",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "purple moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple moon-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
